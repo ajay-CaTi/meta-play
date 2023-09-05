@@ -2,6 +2,19 @@
 
 # configur tailwindcss
 
+# Meta-Play
+
+- Create react app
+- Configures tailwind
+- Header
+- Routing
+- Login Form
+- Signup Form
+- Form Validation
+- useRef Hook
+- firebase setup
+- deploying app to production
+
 # Features
 
 Login/Sign Up
@@ -9,6 +22,8 @@ Login/Sign Up
 redirect to browse page
 Browse(after authentication)
 Header - Main Movie - Trailer in Background - Title description and play button - Movie rows(suggestions) - Movie List
+
+# Readin Documentaton is super power of a Good Developer
 
 # git
 
